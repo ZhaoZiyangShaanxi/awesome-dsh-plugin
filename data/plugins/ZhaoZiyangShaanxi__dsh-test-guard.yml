@@ -1,6 +1,7 @@
 url: https://github.com/ZhaoZiyangShaanxi/dsh-test-guard
 name: ZhaoZiyangShaanxi/dsh-test-guard
 category: dev
+tarball: https://github.com/ZhaoZiyangShaanxi/dsh-test-guard/releases/download/v0.1.0/dsh-test-guard-0.1.0.tgz
 description:
   en: "Cordis services for task-based LLM routing, test-aware context compression, TypeScript code review, and Istanbul coverage gating."
   zh: "提供按任务分发 LLM 请求、测试感知上下文压缩、TypeScript 代码审查和 Istanbul 覆盖率门禁的 Cordis 服务。"
